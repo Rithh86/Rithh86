@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">404: identity not found</h1>
 
-<!--
-**Rithh86/Rithh86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=36BCF7&center=true&width=435&lines=~+accessing+terminal...;~+initializing+profile...;~+error%3A+data+corrupted" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media.giphy.com/media/Vg4x4uC8fWcYQ/giphy.gif" width="160" alt="hacker cat" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+```bash
+> whoami
+an0nym0us
